@@ -1,4 +1,4 @@
-FROM quay.io/Umar/Umar-ser:latest
+FROM quay.io/hermit/hermit-ser:latest
 
 RUN git clone https://github.com/umar404/Umar-md /root/Umar-md
 WORKDIR /root/Umar-md/
