@@ -57,7 +57,7 @@ fotonye = fs.readFileSync('./pict.jpg') [ JPEG FOT WEBPAGE ]
 * FFmpeg buildpack https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
 </details>
 
-* [CLICK HERE](https://github.com/PitoDevID/bot-bug-md/blob/master/index.js)
+* [CLICK HERE](https://github.com/umar404/bot-bug-md/blob/master/index.js)
 
 ## <samp>FEATURE </samp>
 
@@ -115,9 +115,6 @@ fotonye = fs.readFileSync('./pict.jpg') [ JPEG FOT WEBPAGE ]
 
 ## <samp>  Big Thanks To :
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`DikaArdnt`](https://github.com/DikaArdnt)
-* [`Faizbastomi`](https://github.com/FaizBastomi)
-* [`PitoDev ArmStrong`](https://github.com/PitoDevID)</samp>
+* [`UMAR REHMAN`](https://github.com/umar404)</samp>
 
 License : [MIT](https://en.wikipedia.org/wiki/MIT_License)
