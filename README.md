@@ -1,12 +1,12 @@
 ## <samp> Hi there, This is my project <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 <p align="center">
-<img src="https://avatars.githubusercontent.com/umar404" height="180" style="margin-left: auto;margin-right: auto;display: block;">
+<img src="https://avatars.githubusercontent.com/PitoDevID" height="180" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 </br>
 <p align="center">
-<a href="https://github.com/PitoDevID"><img title="Author" src="https://img.shields.io/badge/Author-Umar Devil-red.svg?color=ff0000&style=for-the-badge&logo=github" /></a>  
+<a href="https://github.com/PitoDevID"><img title="Author" src="https://img.shields.io/badge/Author-PitoDevID-red.svg?color=ff0000&style=for-the-badge&logo=github" /></a>  
 </p>
 
 ## <samp> Attention please </samp>
@@ -57,7 +57,7 @@ fotonye = fs.readFileSync('./pict.jpg') [ JPEG FOT WEBPAGE ]
 * FFmpeg buildpack https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
 </details>
 
-* [CLICK HERE](https://github.com/umar404/bot-bug-md/blob/master/index.js)
+* [CLICK HERE](https://github.com/PitoDevID/bot-bug-md/blob/master/index.js)
 
 ## <samp>FEATURE </samp>
 
@@ -115,6 +115,9 @@ fotonye = fs.readFileSync('./pict.jpg') [ JPEG FOT WEBPAGE ]
 
 ## <samp>  Big Thanks To :
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`UMAR REHMAN`](https://github.com/umar404)</samp>
+* [`Mhankbarbar`](https://github.com/MhankBarBar)
+* [`DikaArdnt`](https://github.com/DikaArdnt)
+* [`Faizbastomi`](https://github.com/FaizBastomi)
+* [`PitoDev ArmStrong`](https://github.com/PitoDevID)</samp>
 
 License : [MIT](https://en.wikipedia.org/wiki/MIT_License)
